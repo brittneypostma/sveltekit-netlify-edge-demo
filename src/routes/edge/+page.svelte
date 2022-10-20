@@ -3,4 +3,4 @@
   export let data: PageData
 </script>
 
-{data.edge}
+<h1>Hello from {data.city}, {data.region}!</h1>
